@@ -14,7 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "hisacat/VCCPackage-AssetPatcher",
+        "hisacat/VRCPackage-AssetPatcher",
         "hisacat/VRCPackage-DevelopmentTools"
     ]
 }
