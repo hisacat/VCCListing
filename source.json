@@ -1,6 +1,6 @@
 {
     "name":"HisaCat’s VCC Listing",
-    "id":"com.hisacat.vpm",
+    "id":"cat.hisa.vpm",
     "url":"https://hisacat.github.io/VCCListing/index.json",
     "author":{
         "email":"ahisacat@gmail.com",
@@ -14,7 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "hisacat/VRCPackage-AssetPatcher",
-        "hisacat/VRCPackage-DevelopmentTools"
+        "hisacat/Unity-AssetPatcher",
+        "hisacat/Unity-PackageDevelopmentTools"
     ]
 }
