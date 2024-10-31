@@ -15,6 +15,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "hisacat/Unity-AssetPatcher",
+        "hisacat/Unity-NumberCounterShader",
         "hisacat/Unity-PackageDevelopmentTools"
     ]
 }
